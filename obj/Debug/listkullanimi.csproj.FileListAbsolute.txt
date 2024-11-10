@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\bin\Debug\listkullanimi.exe.config
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\bin\Debug\listkullanimi.exe
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\bin\Debug\listkullanimi.pdb
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\obj\Debug\listkullanimi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\obj\Debug\listkullanimi.Form1.resources
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\obj\Debug\listkullanimi.Properties.Resources.resources
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\obj\Debug\listkullanimi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\obj\Debug\listkullanimi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\obj\Debug\listkullanimi.exe
+C:\Users\user\Desktop\gorselprogramlama1\listkullanimi\obj\Debug\listkullanimi.pdb
